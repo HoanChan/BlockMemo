@@ -1,0 +1,15 @@
+{
+    "name": "blockmemo",
+    "version": "1.0.0",
+    "description": "Truy vết sản phẩm",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "author": "Lê Hoàn Chân",
+    "license": "MIT",
+    "dependencies": {
+        "hardhat": "^2.22.8"
+    }
+  }
